@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi,
+I’m Praduman, software engineer based in India.
 
-<!--
-**pradumanrathod/pradumanrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
+I like to build softwares on whatever I can imagine and technologies which excites me the most.
 
-Here are some ideas to get you started:
+MY CURRENT TECH STACK I FEEL CONFIDENT ABOUT : 
+- 🛠 I work mainly with **Node.js, Express, MongoDB & React**
+- 🔍 I enjoy **debugging, optimizing APIs, and designing clean architectures**
+- 🧩 Currently improving skills in **scalable app development**
+- 🌱 Learning more about **cloud, security, and production systems**
+- 🤝 Open to **internships, collaborations & open-source contributions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📌 Projects which i feel most proud about :
+
+🔹 StudyTracker
+> Privacy-first productivity app with automatic session detection
+- Tensorflow 
+- React + TypeScript frontend  
+- Node.js & MongoDB backend  
+- Face detection for study tracking  
+
+ 🔹 GoodCars
+> Verified car marketplace connecting trusted dealers with buyers
+- Dealer onboarding & verification  
+- Secure APIs & role-based access  
+- Focused on trust & scalability  
+
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/pradumanr
+- 🌐 Portfolio: https://praduman-portfolio-one.vercel.app/
+
+
+⭐ *“I focus on writing code that is simple, readable, and production-ready.”*
