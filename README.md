@@ -1,7 +1,7 @@
 👋 Hi,
 I’m Praduman, software engineer based in India.
 
-🧠 About Me
+🧠 About Me,
 I like to build softwares on whatever I can imagine and technologies which excites me the most.
 
 MY CURRENT TECH STACK I FEEL CONFIDENT ABOUT : 
