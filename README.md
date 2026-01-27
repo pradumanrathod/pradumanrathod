@@ -15,9 +15,10 @@ MY CURRENT TECH STACK I FEEL CONFIDENT ABOUT :
 
 📌 Projects which i feel most proud about :
 
-🔹 StudyTracker
+🔹 StudyAnalyser
+- https://www.studyanalyser.com
 > Privacy-first productivity app with automatic session detection
-- Tensorflow 
+- Tensorflow & Media Pipe
 - React + TypeScript frontend  
 - Node.js & MongoDB backend  
 - Face detection for study tracking  
