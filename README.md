@@ -15,7 +15,7 @@ MY CURRENT TECH STACK I FEEL CONFIDENT ABOUT :
 
 📌 Projects which i feel most proud about :
 
-🔹 StudyAnalyser
+🔹 StudyAnalyser( used by 1000+ users)
 - https://www.studyanalyser.com
 > Privacy-first productivity app with automatic session detection
 - Tensorflow & Media Pipe
