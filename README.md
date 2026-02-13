@@ -19,8 +19,8 @@ MY CURRENT TECH STACK I FEEL CONFIDENT ABOUT :
 - https://www.studyanalyser.com
 > Privacy-first productivity app with automatic session detection
 - Tensorflow & Media Pipe
-- React + TypeScript frontend  
-- Node.js & MongoDB backend  
+- Next js + TypeScript frontend  
+- Supabase , SQL backend  
 - Face detection for study tracking  
 
  🔹 GoodCars
