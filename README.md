@@ -23,7 +23,7 @@ MY CURRENT TECH STACK I FEEL CONFIDENT ABOUT :
 - Supabase , SQL backend  
 - Face detection for study tracking  
 
- 🔹 GoodCars
+ 🔹 GoodCars (MERN Stack)
 > Verified car marketplace connecting trusted dealers with buyers
 - Dealer onboarding & verification  
 - Secure APIs & role-based access  
