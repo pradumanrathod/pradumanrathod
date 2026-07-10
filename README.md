@@ -2,7 +2,8 @@
 I’m Praduman, software engineer based in India.
 
 🧠 About Me,
-I like to build softwares on whatever I can imagine and technologies which excites me the most.
+I like to build softwares on whatever I can imagine and technologies which excites me the most. 
+I focus more on building rather that learning the concepts first. After building an MVP, go deep into concepts for finish the prodcut
 
 MY CURRENT TECH STACK I FEEL CONFIDENT ABOUT : 
 - 🛠 I work mainly with **Node.js, Express, MongoDB & React**
